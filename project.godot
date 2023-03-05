@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="Tmep"
+config/name="Tetron"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
 [gui]
